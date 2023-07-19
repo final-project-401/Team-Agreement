@@ -56,7 +56,7 @@ Before beginning to tackle the project, determine how your group will communicat
 ### Communication Channels
 - Slack: Group chat
 - GitHub Org: [https://github.com/final-project-401](https://github.com/final-project-401)
-- Trello: Trello Board
+- Trello: [Trello Board](https://trello.com/invite/b/8BQmrt5O/ATTIea34307eea7229049ddd8522c4132a7b9A70D9FA/project-management)
 - InVision Whiteboard: [https://joshuacoffey209777.invisionapp.com/freehand/final-project-401-WDcgjI8gk](https://joshuacoffey209777.invisionapp.com/freehand/final-project-401-WDcgjI8gk)
 
 #### Hours Available to Communicate
