@@ -65,7 +65,7 @@ Before beginning to tackle the project, determine how your group will communicat
 | Donna Ada     | 9am - 6pm             |
 | Joshua Coffey | 9am - 6pm             |
 | Justin Mathieu| 9am - 6pm             |
-| Tricia Sawyer | 8am -                 |
+| Tricia Sawyer | 8am - 5pm             |
 | Tim Maupin    | 9am - 6pm             |
 | Kenya         |                       |
 
